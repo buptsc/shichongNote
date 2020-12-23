@@ -1,0 +1,2 @@
+# shichongNote
+ Work notes, experience
